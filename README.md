@@ -1,1 +1,3 @@
 # probabilites-et-statistiques
+
+Il s'agit d'un projet réalisé en 3ème année de licence informatique. Ce projet est divisé en trois parties. La première partie concerne la détermination des coefficients de régression linéaire par trois méthodes : la méthode de calcul des moindres carrés, la méthode matricielle et la méthode de descente de gradient. La seconde partie permet l’étude de différentes lois de probabilité : la loi binomiale, normale et exponentielle. Enfin, la troisième partie concerne le calcul des intervalles de confiance sur trois exemples concrets. L'implémentation est faite en Python et le compte rendu en LaTeX.
